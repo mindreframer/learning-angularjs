@@ -128,6 +128,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [AngularJS Directive for Mobile Sliders] (http://ngokevin.com/blog/angularslider/)
 * [Using Namespaces For One-Off Directives In AngularJS] (http://www.bennadel.com/blog/2494-Using-Namespaces-For-One-Off-Directives-In-AngularJS.htm)
 * [AngularJS and $compile] (http://www.phase2technology.com/blog/angularjs-and-compile/)
+* [Curated list of angular directives] (http://angular-js.in)
 
 ## Services/Providers
 * [Angular service or factory?] (http://iffycan.blogspot.com/2013/05/angular-service-or-factory.html)
